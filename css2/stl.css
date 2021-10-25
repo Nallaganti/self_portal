@@ -14,7 +14,9 @@
   
   body {
     padding: 50px 0px 0px 0px;
-    z-index: 0; }
+    z-index: 0;
+   
+}
 
 .jumbotron {
     margin: 0px auto;
@@ -22,6 +24,8 @@
     background: hsl(262, 29%, 95%);
     color: rgb(29, 26, 20);
     font-family: serif;
+    width: 80%;
+    
  }
  .row-footer {
     background-color:hsl(262, 29%, 95%);
