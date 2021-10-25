@@ -1,0 +1,43 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px;
+    min-height: 100px;
+}
+
+.row-content{
+        margin: 0px auto;
+        padding: 50px 0px;
+        min-height: 200px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+
+  
+  body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0; }
+
+.jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background: hsl(262, 29%, 95%);
+    color: rgb(29, 26, 20);
+    font-family: serif;
+ }
+ .row-footer {
+    background-color:hsl(262, 29%, 95%);
+    margin: 0px auto;
+    padding: 20px 0px;
+    color: #1c162b;
+ }
+ .navbar-dark {
+    background-color: #1c162b; }
+.navbar-form{
+    color:black;
+}
+ .logo{
+     font-family:Snell Roundhand, cursive;
+     font-size: 25px;
+     color:rgb(15, 12, 12);
+     font-weight: 100
+
+ }
